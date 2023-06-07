@@ -18,3 +18,8 @@ with col2:
        My passion for machinery continued to develop.          
     """
     st.info(content)
+
+content2 = """
+you can find some of the apps i have built in python. Feel free to contact me!
+"""
+st.write(content2)
